@@ -1,0 +1,3 @@
+- insert:
+    - id: balance-widget
+      name: 'dsh-balance-usage-widget'

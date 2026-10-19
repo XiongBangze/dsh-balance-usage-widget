@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "余额与用量",
+    "description": "在输入框下方显示 DeepSeek 账户余额和本会话 token 用量。"
+  }
+}
