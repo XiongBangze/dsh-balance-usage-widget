@@ -4,6 +4,15 @@
   "description": "Composer-dock widget for DeepSeek Harness: account balance plus this session's token usage. 在输入框下方显示账户余额与本会话 token 用量。",
   "type": "module",
   "license": "MIT",
+  "author": "XiongBangze",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiongBangze/dsh-balance-usage-widget.git"
+  },
+  "homepage": "https://github.com/XiongBangze/dsh-balance-usage-widget#readme",
+  "bugs": {
+    "url": "https://github.com/XiongBangze/dsh-balance-usage-widget/issues"
+  },
   "keywords": [
     "dsh",
     "dsh-plugin",
